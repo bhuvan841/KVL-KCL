@@ -1,5 +1,5 @@
-### Name: Ren robin
-### Reg no:212223080043
+### Name: bhuvaneshwaran M
+### Reg no:212223080008
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
